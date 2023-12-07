@@ -1,4 +1,5 @@
-# CF_Instacart_Python
+# CF_Instacart_Python <img width="185" alt="image" src="https://github.com/MDK1223/CF_Instacart_Python/assets/153116141/86e849b0-5b6b-4650-87dd-f1db3faaa27e">
+
 Data Analytics portfolio project from Career Foundry.
 Instactart, an online grocery store that operates through an app, is looking for new insights and strategies to increase revenue.
 
